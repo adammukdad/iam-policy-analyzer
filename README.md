@@ -1,9 +1,9 @@
----
-title: "IAM Policy Analyzer: Detecting Overly Permissive Cloud Access"
-date: 2025-05-16
----
+# IAM Policy Analyzer – Detect Overly Permissive Cloud Access
 
-![](images/may-11-2025-04_27_43-pm.png)
+This tool inspects AWS IAM policies to identify overly broad permissions that could pose security risks. It analyzes access controls to flag wildcard privileges, broad resource exposure, and excessive permissions across user and role policies.
+
+🔍 Use case: Surface dangerous `*:*` policies or unchecked access granted to sensitive AWS services.
+
 
 ### **Purpose**
 
