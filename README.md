@@ -332,3 +332,9 @@ To further enhance the IAM Policy Analyzer, the following improvements are plann
 - **Efficient and Scalable Solutions**: Optimized the tool for performance, ensuring quick analysis of multiple policies, which is crucial for scalability in enterprise environments.
 
 - **Commitment to Best Practices**: Ensured the tool adheres to security best practices, reinforcing a commitment to developing secure and reliable solutions.
+
+## 👤 Author
+**Adam Mukdad**  
+📧 [adammukdad97@gmail.com](mailto:adammukdad97@gmail.com)  
+🔗 [GitHub Portfolio](https://github.com/adammukdad)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adammukdad/)  
