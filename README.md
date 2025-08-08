@@ -152,15 +152,16 @@ This project showcases my ability to:
 
 ---
 
-## 👤 Author
+### **Outcome / What I Learned**
 
-<<<<<<< HEAD
+- Gained hands-on experience with cloud security audit logic
+
 - Learned to balance functionality, clarity, and polish in code
 
 - Deepened my understanding of IAM risk assessment principles
 
 - Reinforced the habit of building tools with end-user usability in mind
-
+  
 ### **Project Metrics: Qualified and Quantified Impact**
 
 To make this project credible and measurable, I've included specific figures and substantiated outcomes:
