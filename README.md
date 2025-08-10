@@ -73,18 +73,25 @@ iam-policy-analyzer/
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/adammukdad/iam-policy-analyzer.git
    cd iam-policy-analyzer
    ```
 
-2. Run the analyzer:
-   ```bash
+2. **Run the analyzer**  
+
+   **On Windows (PowerShell):**  
+   ```powershell
    python analyzer.py policies/sample-policy.json
    ```
 
-3. Review findings in the console output.
+   **On macOS / Linux (Bash):**  
+   ```bash
+   python3 analyzer.py policies/sample-policy.json
+   ```
+
+3. **Review findings** in the console output.
 
 ---
 
