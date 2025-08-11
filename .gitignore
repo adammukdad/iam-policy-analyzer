@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+iam_audit_report.csv

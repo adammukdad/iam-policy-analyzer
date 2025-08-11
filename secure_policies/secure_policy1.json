@@ -1,0 +1,16 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ec2:DescribeInstances",
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:ec2:us-east-1:123456789012:instance/*",
+                "arn:aws:s3:::example-bucket"
+            ]
+        }
+    ]
+}
