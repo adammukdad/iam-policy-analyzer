@@ -10,11 +10,11 @@
 ## 📚 Table of Contents
 
 
-<a name="table-of-contents"></a>
+<a id="table-of-contents"></a>
 
 - [📌 Overview](#overview)
 - [✨ Key Features](#key-features)
-- [📊 Qualified & Quantified Impact](#qualified-quantified-impact)
+- [📊 Qualified & Quantified Impact](#qualified--quantified-impact)
 - [🎯 Objectives Met](#objectives-met)
 - [🖥 Sample Log Output](#sample-log-output)
 - [📂 Project Structure](#project-structure)
@@ -22,7 +22,7 @@
 - [🚀 How to Run](#how-to-run)
 - [📷 Screenshots](#screenshots)
 - [🔮 Future Enhancements](#future-enhancements)
-- [📚 Challenges & Lessons Learned](#challenges-lessons-learned)
+- [📚 Challenges & Lessons Learned](#challenges--lessons-learned)
 - [💡 Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)
 - [👤 Author](#author)
 
