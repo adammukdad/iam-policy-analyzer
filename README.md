@@ -9,23 +9,23 @@
 
 ## 🧭 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Qualified & Quantified Impact](#qualified-quantified-impact)
-- [Objectives Met](#objectives-met)
-- [Sample Log Output](#sample-log-output)
-- [Project Structure](#project-structure)
-- [Tech Stack](#tech-stack)
-- [How to Run](#how-to-run)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Qualified & Quantified Impact](#-qualified--quantified-impact)
+- [Objectives Met](#-objectives-met)
+- [Sample Log Output](#-sample-log-output)
+- [Project Structure](#-project-structure)
+- [Tech Stack](#-tech-stack)
+- [How to Run](#-how-to-run)
   - [1) Clone](#1-clone)
   - [2) Prerequisite](#2-prerequisite)
   - [A) Command-Line (CLI)](#a-command-line-cli)
   - [B) Run via Graphical User Interface (GUI)](#b-run-via-graphical-user-interface-gui)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Challenges & Lessons Learned](#challenges-lessons-learned)
-- [Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)
-- [Author](#author)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [Challenges & Lessons Learned](#-challenges--lessons-learned)
+- [Key Takeaways for Hiring Managers](#-key-takeaways-for-hiring-managers)
+- [Author](#-author)
 
 ---
 
