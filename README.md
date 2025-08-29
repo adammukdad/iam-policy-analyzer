@@ -11,7 +11,7 @@
 
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Qualified & Quantified Impact](#qualified--quantified-impact)
+- [Qualified & Quantified Impact](#qualified-quantified-impact)
 - [Objectives Met](#objectives-met)
 - [Sample Log Output](#sample-log-output)
 - [Project Structure](#project-structure)
@@ -22,12 +22,13 @@
   - [A) Command-Line (CLI)](#a-command-line-cli)
   - [B) Run via Graphical User Interface (GUI)](#b-run-via-graphical-user-interface-gui)
 - [Screenshots](#screenshots)
-- [Future Enhancements](#-future-enhancements)
-- [Challenges & Lessons Learned](#-challenges--lessons-learned)
-- [Key Takeaways for Hiring Managers](#-key-takeaways-for-hiring-managers)
-- [Author](#-author)
+- [Future Enhancements](#future-enhancements)
+- [Challenges & Lessons Learned](#challenges-lessons-learned)
+- [Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)
+- [Author](#author)
 
 ---
+
 
 ## 📌 Overview
 The **IAM Policy Analyzer** is a cloud security auditing tool that evaluates AWS IAM policies for risky permissions. It supports both command-line and graphical user interfaces (GUI) to accommodate different user preferences. The project demonstrates expertise in AWS security, Python scripting, and GUI application development, while delivering clear, actionable security reports.
