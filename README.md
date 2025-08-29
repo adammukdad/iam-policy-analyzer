@@ -2,8 +2,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Security](https://img.shields.io/badge/Focus-Cloud%20Access%20Control-critical)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![GitHub stars](https://img.shields.io/github/stars/adammukdad/aws-s3-auditor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/adammukdad/aws-s3-auditor?style=social)
+![GitHub issues](https://img.shields.io/github/issues/adammukdad/aws-s3-auditor)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -240,3 +243,5 @@ The exported CSV file shows risk levels, violations, and compliance status for e
 🔗 [GitHub Portfolio](https://github.com/adammukdad)  
 🌐 [LinkedIn](https://www.linkedin.com/in/adammukdad/)  
 📍 Chicago, IL
+
+[📚 Back to Table of Contents](#-table-of-contents)
