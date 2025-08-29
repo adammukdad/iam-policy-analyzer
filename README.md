@@ -1,12 +1,12 @@
 # 🔐 IAM Policy Analyzer – Detect Overly Permissive Cloud Access
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
-![Security](https://img.shields.io/badge/Focus-Cloud%20Access%20Control-critical)
-![Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![GitHub stars](https://img.shields.io/github/stars/adammukdad/aws-s3-auditor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/adammukdad/aws-s3-auditor?style=social)
-![GitHub issues](https://img.shields.io/github/issues/adammukdad/aws-s3-auditor)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)
+![Security](https://img.shields.io/badge/Focus-Cloud%20Access%20Control-critical?style=flat-square)
+![Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/adammukdad/iam-policy-analyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/adammukdad/iam-policy-analyzer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/adammukdad/iam-policy-analyzer?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
