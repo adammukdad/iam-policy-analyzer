@@ -9,7 +9,6 @@
 
 ## 📚 Table of Contents
 
-[⬆️ Back to top](#table-of-contents)
 
 <a name="table-of-contents"></a>
 
