@@ -7,10 +7,36 @@
 
 ---
 
+## 📚 Table of Contents
+
+[⬆️ Back to top](#table-of-contents)
+
+<a name="table-of-contents"></a>
+
+- [📌 Overview](#overview)
+- [✨ Key Features](#key-features)
+- [📊 Qualified & Quantified Impact](#qualified-quantified-impact)
+- [🎯 Objectives Met](#objectives-met)
+- [🖥 Sample Log Output](#sample-log-output)
+- [📂 Project Structure](#project-structure)
+- [🛠 Tech Stack](#tech-stack)
+- [🚀 How to Run](#how-to-run)
+- [📷 Screenshots](#screenshots)
+- [🔮 Future Enhancements](#future-enhancements)
+- [📚 Challenges & Lessons Learned](#challenges-lessons-learned)
+- [💡 Key Takeaways for Hiring Managers](#key-takeaways-for-hiring-managers)
+- [👤 Author](#author)
+
 ## 📌 Overview
+
+[⬆️ Back to top](#table-of-contents)
+
 The **IAM Policy Analyzer** is a cloud security auditing tool that evaluates AWS IAM policies for risky permissions. It supports both command-line and graphical user interfaces (GUI) to accommodate different user preferences. The project demonstrates expertise in AWS security, Python scripting, and GUI application development, while delivering clear, actionable security reports.
 
 ## ✨ Key Features
+
+[⬆️ Back to top](#table-of-contents)
+
 - **Comprehensive Policy Scanning** – Detects high, moderate, and low-risk IAM permissions.
 - **Dual Operation Modes** – Use CLI for automation or GUI for interactive analysis.
 - **Detailed CSV Reports** – Export findings with full metadata for record-keeping.
@@ -19,6 +45,9 @@ The **IAM Policy Analyzer** is a cloud security auditing tool that evaluates AWS
 - **No External Dependencies** – Uses built-in Python libraries.
 
 ## 📊 Qualified & Quantified Impact
+
+[⬆️ Back to top](#table-of-contents)
+
 - **Detection Accuracy**: 100% identification of intentionally risky actions in test datasets.
 - **Performance**: Scans and evaluates 10+ policy files in under 2 seconds on standard hardware.
 - **Output Clarity**: CSV exports with 5 key fields – `Filename, Folder, Is Secure, Risk Level, Violations`.
@@ -26,6 +55,9 @@ The **IAM Policy Analyzer** is a cloud security auditing tool that evaluates AWS
 - **Business Value**: Equips security teams with immediate insight into IAM configurations, reducing audit preparation time by 80% and mitigating risk exposure from misconfigured IAM policies.
 
 ## 🎯 Objectives Met
+
+[⬆️ Back to top](#table-of-contents)
+
 - Build a functional AWS IAM policy auditing tool.
 - Provide both CLI and GUI interfaces for versatility.
 - Include realistic sample data to demonstrate secure vs. insecure scenarios.
@@ -33,6 +65,9 @@ The **IAM Policy Analyzer** is a cloud security auditing tool that evaluates AWS
 - Maintain portability with zero external library requirements.
 
 ## 🖥 Sample Log Output
+
+[⬆️ Back to top](#table-of-contents)
+
 ```
 [High Risk] test_policies/policy1.json
   - Action: "*"
@@ -42,6 +77,9 @@ The **IAM Policy Analyzer** is a cloud security auditing tool that evaluates AWS
 ```
 
 ## 📂 Project Structure
+
+[⬆️ Back to top](#table-of-contents)
+
 ```
 iam-policy-analyzer/
 │── iam_policy_analyzer.py      # CLI analyzer
@@ -55,11 +93,17 @@ iam-policy-analyzer/
 ```
 
 ## 🛠 Tech Stack
+
+[⬆️ Back to top](#table-of-contents)
+
 - **Language:** Python 3.10+
 - **Libraries:** Tkinter (built-in), json, csv, os
 - **Platforms:** Windows, macOS, Linux
 
 ## 🚀 How to Run
+
+[⬆️ Back to top](#table-of-contents)
+
 
 ### 1) Clone
 ```bash
@@ -73,6 +117,9 @@ cd iam-policy-analyzer
 ---
 
 ## A) Command-Line (CLI)
+
+[⬆️ Back to top](#table-of-contents)
+
 
 **Run the analyzer (scans all samples and exports CSV)**
 - **Windows (PowerShell)**
@@ -97,6 +144,9 @@ python3 iam_policy_analyzer.py
 ---
 
 ## B) Run via Graphical User Interface (GUI)
+
+[⬆️ Back to top](#table-of-contents)
+
 
 1. Open the GUI:
    - **Windows (PowerShell):**
@@ -124,6 +174,9 @@ python3 iam_policy_analyzer.py
 ---
 
 ## 📷 Screenshots
+
+[⬆️ Back to top](#table-of-contents)
+
 
 #### **PowerShell Output (CLI version):**
 
@@ -170,17 +223,26 @@ The exported CSV file shows risk levels, violations, and compliance status for e
 ---
 
 ## 🔮 Future Enhancements
+
+[⬆️ Back to top](#table-of-contents)
+
 - Add single-file analysis mode for CLI.
 - Integrate AWS SDK (boto3) for live IAM policy fetching.
 - Implement HTML report exports.
 - Add severity scoring system for violations.
 
 ## 📚 Challenges & Lessons Learned
+
+[⬆️ Back to top](#table-of-contents)
+
 - Ensuring CSV exports are universally compatible across OS.
 - Designing a GUI that’s both intuitive and feature-complete.
 - Maintaining a zero-dependency policy to simplify user onboarding.
 
 ## 💡 Key Takeaways for Hiring Managers
+
+[⬆️ Back to top](#table-of-contents)
+
 - Demonstrates ability to deliver cross-platform security tools.
 - Balances CLI automation with user-friendly GUI design.
 - Focused on actionable, business-relevant security reporting.
@@ -193,3 +255,5 @@ The exported CSV file shows risk levels, violations, and compliance status for e
 🔗 [GitHub Portfolio](https://github.com/adammukdad)  
 🌐 [LinkedIn](https://www.linkedin.com/in/adammukdad/)  
 📍 Chicago, IL
+
+[📚 Back to Table of Contents](#table-of-contents)
