@@ -1,5 +1,7 @@
 # 🔐 IAM Policy Analyzer – Detect Overly Permissive Cloud Access
 
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)
 ![Security](https://img.shields.io/badge/Focus-Cloud%20Access%20Control-critical?style=flat-square)
 ![Platforms](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
@@ -7,6 +9,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/adammukdad/iam-policy-analyzer?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/adammukdad/iam-policy-analyzer?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+</p>
 
 ---
 
